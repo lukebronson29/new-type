@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Collier County Through the Mid-twentieth
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Development and Hurricane Impacts
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "This is a collection of photographs and written publications pertaining to Collier County, Florida, sourced from the Collier County Historical Society and Collier County Museums. The included materials fall primarily within the middle of the twentieth century, and notably document building and development in the area, various community gatherings and events, the aftermath of 1960’s Hurricane Donna, and a number of notable persons. "
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Luke Bronson
 
 ##########
 # COLLECTION SETTINGS

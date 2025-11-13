@@ -24,17 +24,17 @@ Florida’s development is a strange one, and its southwestern region is no exce
 
 The Naples Pier was constructed in 1888, and travel by boat was the only way to reach the area until the completion of U.S. 41 (also known as the Tamiami Trail) nearly fifty years later. Even though development would become largely dependent on roadways, Southwest Florida did not cease in importance throughout the intervening years. The final years of the nineteenth-century saw the Spanish-American War and Cuba as a primary front. Tampa became the regional headquarters for the United States military, and the transport of raw materials, food and other goods, and the troops themselves relied on a boom in railway expansion. This expansion would continue southward and begin laying the foundation for the coming century, albeit it was not until the roadways were completed well into the 1920s that created the catalyst for the Southwest Florida we have come to know today. 
 
+This collection contains numerous photographs conveying this continued expansion, dating from the 1920s onward. There are crowds of people gathered in empty fields, tractors plowing dirt in front of curious onlookers, and land prospectors in front of a waterway.
+
 {% include feature/image.html objectid="ccmt18" width="75" %}
 {% include feature/image.html objectid="ccmt16" width="75" %}
 {% include feature/image.html objectid="ccmt15" width="75" %}
 
-This collection contains numerous photographs conveying this continued expansion, dating from the 1920s onward. There are crowds of people gathered in empty fields, tractors plowing dirt in front of curious onlookers, and land prospectors in front of a waterway.
+We then start to see automobiles, agricultural exhibitions, and county fairs. There is a brewing liveliness to these photos. At the same time, there is a sort of thirst and hunger--a hunger for more land, more industry, more tourism, more capital. As the new inhabitants of Southwest Florida would come to find out, these desires--captivating as they were--were certainly not without risk.
 
 {% include feature/image.html objectid="ccmt09" width="75" %}
 {% include feature/image.html objectid="ccmt19" width="75" %}
 {% include feature/image.html objectid="ccmt20" width="75" %}
-
-There are automobiles, agricultural exhibitions, and county fairs. There is a liveliness and a communal spirit to these photos, but at the same time, there is a thirst and a hunger. For more land, more industry, more tourism, more capital. These desires, though, were not without risk.
 
 It is impossible to touch on the history of Southwest Florida without discussing the impact of hurricanes. The region’s location on the globe and its tropical climate have historically made it victim to some of the planet’s most destructive natural disasters. Featured prominently in this collection are both photographs and written material about the aftermath of 1960’s devastating Hurricane Donna. 
 

@@ -27,11 +27,14 @@ The Naples Pier was constructed in 1888, and travel by boat was the only way to 
 {% include feature/image.html objectid="ccmt18" width="75" %}
 {% include feature/image.html objectid="ccmt16" width="75" %}
 {% include feature/image.html objectid="ccmt15" width="75" %}
+
+This collection contains numerous photographs conveying this continued expansion, dating from the 1920s onward. There are crowds of people gathered in empty fields, tractors plowing dirt in front of curious onlookers, and land prospectors in front of a waterway.
+
 {% include feature/image.html objectid="ccmt09" width="75" %}
 {% include feature/image.html objectid="ccmt19" width="75" %}
 {% include feature/image.html objectid="ccmt20" width="75" %}
 
-This collection contains numerous photographs conveying this continued expansion, dating from the 1920s onward. There are crowds of people gathered in empty fields, tractors plowing dirt in front of curious onlookers, and land prospectors in front of a waterway. There are automobiles, agricultural exhibitions, and county fairs. There is a liveliness and a communal spirit to these photos, but at the same time, there is a thirst and a hunger. For more land, more industry, more tourism, more capital. These desires, though, were not without risk.
+There are automobiles, agricultural exhibitions, and county fairs. There is a liveliness and a communal spirit to these photos, but at the same time, there is a thirst and a hunger. For more land, more industry, more tourism, more capital. These desires, though, were not without risk.
 
 It is impossible to touch on the history of Southwest Florida without discussing the impact of hurricanes. The region’s location on the globe and its tropical climate have historically made it victim to some of the planet’s most destructive natural disasters. Featured prominently in this collection are both photographs and written material about the aftermath of 1960’s devastating Hurricane Donna. 
 
